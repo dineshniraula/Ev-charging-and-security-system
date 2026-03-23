@@ -84,7 +84,7 @@ ev-charging-security-system/
 ### 1️ Clone Repository
 
 ```
-git clone https://github.com/your-username/ev-charging-security-system.git
+git clone https://github.com/dineshniraula/ev-charging-security-system.git
 cd ev-charging-security-system
 ```
 
