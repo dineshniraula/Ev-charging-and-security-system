@@ -135,10 +135,10 @@ The system uses **machine learning algorithms** (e.g., Isolation Forest) to:
 
 | Member   | Responsibility              |
 | -------- | --------------------------- |
-| Dinesh  | Frontend Development        |
+| Siffat  | Frontend Development        |
 | Riya  | Backend Development         |
 | Adarsha | Database Design             |
-| siffat | Machine Learning & Security |
+| Dinesh | Machine Learning & Security |
 
 ---
 
