@@ -43,11 +43,11 @@ The system allows users to locate charging stations, book time slots, and secure
 ##  System Architecture
 
 Frontend (HTML, CSS, JavaScript)
-⬇
+
 Backend (Node.js / Express)
-⬇
+
 Database (MySQL)
-⬇
+
 ML Module (Python - Scikit-learn)
 
 ---
