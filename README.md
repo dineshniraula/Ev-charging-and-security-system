@@ -153,7 +153,7 @@ The system uses **machine learning algorithms** (e.g., Isolation Forest) to:
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * Real-time charging slot availability
 * Online payment integration
@@ -163,13 +163,13 @@ The system uses **machine learning algorithms** (e.g., Isolation Forest) to:
 
 ---
 
-## 📄 License
+##  License
 
 This project is for academic purposes only.
 
 ---
 
-## 🙌 Acknowledgements
+##  Acknowledgements
 
 * Open-source community
 * Academic resources and datasets
